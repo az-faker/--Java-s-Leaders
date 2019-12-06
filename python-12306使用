@@ -1,1 +1,7 @@
-
+                                        GitHub上12306抢票（python）使用文档
+1、简要
+ 12306工程是github上一个标星16k的python项目，在自己笔记本上搭建环境并且部署好即可以实现自动打码、自动登录、准点预售和捡漏、智能候补、
+ 邮件通知、server酱通知。当前项目使用python版本为3.7,Google浏览器为78,Python开发IDEA是Pycharm-2019.2。
+ 项目地址：https://github.com/testerSunshine/12306
+ 具体操作可查看博客 ：https://blog.csdn.net/weixin_43735682/article/details/103418072
+              
